@@ -1,6 +1,6 @@
 # Early-stage Phishing Detection on the Ethereum Transaction Network
 
-This repository contains the source code of Soft computing paper Early-stage phishing detection on the Ethereum transaction network.
+This repository contains the source code of Soft computing paper [Early-stage phishing detection on the Ethereum transaction network](https://link.springer.com/article/10.1007/s00500-022-07661-0).
 
 ## Running the Experiments
 
