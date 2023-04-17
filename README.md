@@ -2,7 +2,7 @@
 
 This is the source code of Soft computing paper [Early-stage phishing detection on the Ethereum transaction network](https://link.springer.com/article/10.1007/s00500-022-07661-0).
 
-<div align="center">
+<div align="left">
     <img src="https://github.com/totoroyun/early-stage-phishing/blob/main/framework.png" alt="示例图像" width = "60%" height = "60%">
 </div>
 
