@@ -5,6 +5,10 @@ This is the source code of Soft computing paper [Early-stage phishing detection 
 ![The proposed framework](https://github.com/totoroyun/early-stage-phishing/blob/main/framework.png)
 
 ![Time series splitting](https://github.com/totoroyun/early-stage-phishing/blob/main/split.png)
+<div align="center">
+    <img src="https://github.com/totoroyun/early-stage-phishing/blob/main/split.png" alt="示例图像">
+</div>
+
 
 ## Running the Experiments
 
