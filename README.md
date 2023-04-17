@@ -17,7 +17,7 @@ Run the early-stage run.py script to extract features and test the performance o
 ## Citing Our Work
 
 If you compare, build on, or use aspects of our framework, please cite the following paper:
-
+```
 @article{wan2022early, 
   title={Early-stage phishing detection on the Ethereum transaction network}, 
   author={Wan, Yun and Xiao, Feng and Zhang, Dapeng}, 
@@ -26,3 +26,4 @@ If you compare, build on, or use aspects of our framework, please cite the follo
   year={2022}, 
   publisher={Springer} 
 }
+```
